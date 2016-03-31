@@ -27,5 +27,5 @@ The extension also adds a callback to the "ship" event on the `Shipment` model, 
 
 ## Issues
 
-Please let me know if you find any issues in [the usual places](https://github.com/radar/spree_easypost/issues), with [the usual information](https://github.com/spree/spree/tree/master/CONTRIBUTING.md). 
+Please let me know if you find any issues in [the usual places](https://github.com/arkhitech/spree_easypost/issues), with [the usual information](https://github.com/spree/spree/tree/master/CONTRIBUTING.md). 
 
